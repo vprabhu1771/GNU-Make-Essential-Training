@@ -1,0 +1,11 @@
+
+
+
+Builds the executable
+
+make
+
+
+Execute Program
+
+app.exe
